@@ -25,6 +25,8 @@ creator:
     gutenberg_agent_id: '25216'
     url: http://www.gutenberg.org/2009/agents/25216
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36075#The-King-s-Pilgrimage
 gutenberg_issued: '2011-05-10'
 gutenberg_type: Text
 identifiers:

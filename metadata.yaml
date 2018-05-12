@@ -1,0 +1,45 @@
+_repo: The-King-s-Pilgrimage_36075
+_version: 0.1.0
+contributor:
+  contributor:
+    agent_name: Kipling, Rudyard
+    aliases:
+    - Kipling, R. (Rudyard)
+    - Kipling, Joseph Rudyard
+    birthdate: 1865
+    deathdate: 1936
+    gutenberg_agent_id: '132'
+    url: http://www.gutenberg.org/2009/agents/132
+    wikipedia: http://en.wikipedia.org/wiki/Rudyard_Kipling
+covers:
+- cover_type: archival
+  image_path: 36075-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Fox, Frank
+    aliases:
+    - Fox, Frank, Sir
+    - Renar, Frank
+    birthdate: 1874
+    deathdate: 1960
+    gutenberg_agent_id: '25216'
+    url: http://www.gutenberg.org/2009/agents/25216
+description: ''
+gutenberg_issued: '2011-05-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36075'
+  lccn: '51054497'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'D'
+- !lcc 'D501'
+- !lcsh 'World War, 1914-1918 -- Cemeteries'
+- !lcsh 'Cemeteries -- France'
+- !lcsh 'George V, King of Great Britain, 1865-1936'
+- !lcsh 'Cemeteries -- Belgium'
+title: The King's Pilgrimage
+url: http://www.gutenberg.org/ebooks/36075
